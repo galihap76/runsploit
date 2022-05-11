@@ -56,7 +56,7 @@ source_code_english.rar
 ```
 
 **Mywebsite.py(target)**
-![Screenshot_2022-05-11-23-27-15-43](https://user-images.githubusercontent.com/83481679/167901022-02ae7278-c334-444d-9344-463eed967777.png)
+![p](https://user-images.githubusercontent.com/83481679/167902633-d6b8d106-d742-4958-adbd-74c6a5b001c5.png)
 
 # Note
 I'm sorry i can't record in video on process do reverse shell maybe next time because i not have time for do this. This tool not for script kiddie i hope you already know about reverse shell, what is ngrok, programming language.
