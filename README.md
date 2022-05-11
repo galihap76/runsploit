@@ -5,6 +5,22 @@ You can modify my source code if you want because my source code is open source 
 # Need Ngrok
 You need use ngrok for this because ngrok is a cross-platform application that exposes local server ports to the Internet learn more <a href="https://ngrok.com/">here</a>.
 
+# Install
+**windows & linux**
+```
+git clone https://github.com/galihap76/runsploit.git
+```
+
+# Usage
+**windows**
+```
+runsploit.py -p 4444
+```
+**linux**
+```
+python3 runsploit.py -p 4444
+```
+
 # Example
 **runsploit.py (windows / server)**
 ```
