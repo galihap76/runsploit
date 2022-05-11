@@ -1,12 +1,12 @@
-# runsploit
+# Runsploit
 Runsploit is tool reverse shell on python i build this tool for myself you know you can fork this repository for contributor and i will accept if suitable for this project.
-You can modify script if you want because my source is open source and i keep build this tool runsploit.
+You can modify my source code if you want because my source code is open source and i keep build this tool runsploit.
 
 # Need Ngrok
 You need use ngrok for this because ngrok is a cross-platform application that exposes local server ports to the Internet learn more <a href="https://ngrok.com/">here</a>.
 
 # Example
-**runsploit.py (windows)**
+**runsploit.py (windows / server)**
 ```
 C:\Users\galihap\runsploit>runsploit.py -p 4444
 
@@ -55,8 +55,8 @@ source_code_english.rar
 [*] /storage/9016-4EF8/Source Code>>>
 ```
 
-**Mywebsite.py(target)**
-![p](https://user-images.githubusercontent.com/83481679/167902633-d6b8d106-d742-4958-adbd-74c6a5b001c5.png)
+**Mywebsite.py (android / client)**
+![pic](https://user-images.githubusercontent.com/83481679/167903089-c5069c8d-248b-4f2c-be5f-d3f413d8560a.png)
 
 # Note
-I'm sorry i can't record in video on process do reverse shell maybe next time because i not have time for do this. This tool not for script kiddie i hope you already know about reverse shell, what is ngrok, programming language.
+I'm sorry i can't record in video on process do reverse shell maybe next time because i not have time for do this. This tool not for script kiddie i hope you already know about reverse shell, what is ngrok, programming language and last socket on python.
